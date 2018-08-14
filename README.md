@@ -1,1 +1,1 @@
-# linttcode
+# lintcode
